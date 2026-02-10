@@ -1,7 +1,7 @@
 class Solution:
     def sumEvenAfterQueries(self, nums: List[int], queries: List[List[int]]) -> List[int]:      
         ans = []
-        even_sum = sum(x for x in nums if x % 2 == 0)  # initial sum of evens
+        even_sum = sum(x for x in nums if x % 2 == 0)  
 
         for q in queries:
             val = q[0]
