@@ -2,8 +2,7 @@ class Solution:
     def findValidPair(self, s: str) -> str:
 
         count = Counter(s)
-        print(count)
-        
+
         for i in range(len(s)-1):
             valid = s[i:i+2]
             num = list(map(int,list(valid)))
