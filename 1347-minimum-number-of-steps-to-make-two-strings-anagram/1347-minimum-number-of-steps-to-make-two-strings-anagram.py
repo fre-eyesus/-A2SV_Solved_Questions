@@ -1,18 +1,29 @@
 class Solution:
     def minSteps(self, s: str, t: str) -> int:
-        min_steps = 0
-        count_s= Counter(s)
-        count_t = Counter(t)
+        
+        s_counter = Counter(s)
+        t_counter = Counter(t)
 
+      
 
-        se = set(s)
-        if count_s == count_t:
+        count = 0
+
+        if s_counter == t_counter:
             return 0
 
-        for i in se:
-            if count_s.get(i,0) > count_t.get(i,0):
-                min_steps += abs(count_s.get(i,0) - count_t.get(i,0))
-       
-        return min_steps
-        
-            
+        for key in s_counter:
+            while s_counter[key] != t_counter[key]:
+
+                if s_counter[key] > t_counter[key]:
+                    t_counter[key] += 1
+                    count += 2
+                    
+                elif s_counter[key] < t_counter[key]:
+                    t_counter[key] -= 1
+                    count -= 1
+
+        for ky in t_counter:
+            if ky not in s_counter:
+                count -= t_counter[ky]
+
+        return count
