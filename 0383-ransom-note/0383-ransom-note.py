@@ -5,8 +5,9 @@ class Solution:
         magazine_count = Counter(magazine)
 
         count = 0
-        for char in ransomNote:
-            if ransom_count[char] == magazine_count[char]:
+        for char in set(ransomNote):
+            if ransom_count[char] <= magazine_count[char]:
                 count+=1
-        return count == len(ransomNote)
+           
+        return count == len(set(ransomNote))
         
