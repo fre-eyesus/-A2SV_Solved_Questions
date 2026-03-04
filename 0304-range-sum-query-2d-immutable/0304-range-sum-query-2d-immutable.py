@@ -1,9 +1,9 @@
 class NumMatrix:
 
     def __init__(self, matrix):
-        if not matrix or not matrix[0]:
-            self.pre = [[0]]
-            return
+        # if not matrix or not matrix[0]:
+        #     self.pre = [[0]]
+        #     return
 
         n = len(matrix)
         m = len(matrix[0])
@@ -11,7 +11,7 @@ class NumMatrix:
         self.pre = [[0] * (m + 1) for _ in range(n + 1)]
 
         for i in range(n):
-            for j in range(m):
+            for j   in range(m):
                 self.pre[i + 1][j + 1] = (
                     matrix[i][j]
                     + self.pre[i][j + 1]
