@@ -25,3 +25,5 @@ class NumMatrix:
         topLeft = self.pre[row1-1][col1-1]
 
         return bottomR - above - left + topLeft
+
+        
