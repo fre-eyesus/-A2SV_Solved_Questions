@@ -57,4 +57,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
