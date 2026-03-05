@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -15,6 +16,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
