@@ -86,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
