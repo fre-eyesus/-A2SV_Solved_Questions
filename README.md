@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -73,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
@@ -83,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
