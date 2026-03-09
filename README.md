@@ -34,6 +34,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
