@@ -12,6 +12,7 @@
 | [0496-next-greater-element-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -128,6 +129,7 @@
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0071-simplify-path/) | Medium |
 | [0496-next-greater-element-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -151,4 +153,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
