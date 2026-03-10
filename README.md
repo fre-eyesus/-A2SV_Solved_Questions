@@ -16,6 +16,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1472-design-browser-history](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -164,5 +166,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
