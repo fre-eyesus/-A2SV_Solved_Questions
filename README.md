@@ -185,4 +185,8 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
