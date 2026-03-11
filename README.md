@@ -114,6 +114,7 @@
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0071-simplify-path/) | Medium |
 | [0394-decode-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -141,6 +142,7 @@
 | [0394-decode-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
