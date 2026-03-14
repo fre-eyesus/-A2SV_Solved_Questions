@@ -124,6 +124,7 @@
 | [0071-simplify-path](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0071-simplify-path/) | Medium |
 | [0394-decode-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -171,6 +172,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
