@@ -27,6 +27,7 @@
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +195,7 @@
 | [0933-number-of-recent-calls](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +216,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
