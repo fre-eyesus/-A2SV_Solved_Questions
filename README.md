@@ -51,6 +51,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+| [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -235,4 +237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
