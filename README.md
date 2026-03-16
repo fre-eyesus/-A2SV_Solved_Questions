@@ -104,6 +104,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -125,6 +126,7 @@
 | [0203-remove-linked-list-elements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [0509-fibonacci-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -150,6 +152,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
+| [0509-fibonacci-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Sliding Window
@@ -253,4 +256,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
