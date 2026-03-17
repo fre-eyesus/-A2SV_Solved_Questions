@@ -119,6 +119,7 @@
 | [0781-rabbits-in-forest](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1922-count-good-numbers](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Linked List
@@ -142,6 +143,7 @@
 | [0342-power-of-four](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
