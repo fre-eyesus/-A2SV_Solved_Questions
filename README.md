@@ -18,6 +18,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0641-design-circular-deque](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0739-daily-temperatures](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -64,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -85,6 +87,7 @@
 | [0496-next-greater-element-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -111,6 +114,7 @@
 | [0342-power-of-four](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
