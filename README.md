@@ -32,6 +32,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -124,6 +125,7 @@
 | [0523-continuous-subarray-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1922-count-good-numbers](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
@@ -150,6 +152,7 @@
 | [0394-decode-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Two Pointers
@@ -220,6 +223,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -236,6 +240,7 @@
 | [0641-design-circular-deque](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Heap (Priority Queue)
