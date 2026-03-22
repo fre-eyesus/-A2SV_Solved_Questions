@@ -8,22 +8,23 @@ class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
         
 
-        self.numOfPaths = 0
+        self.paths = 0
         self.dfs(root, targetSum)
-        return self.numOfPaths
-    
+        return self.paths
     def dfs(self, node, targetSum):
         if node is None:
             return 
         self.test(node, targetSum)
         self.dfs(node.left, targetSum)
         self.dfs(node.right, targetSum)
-        
-    def test(self, node, target):
+    
+    def test(self,node, target):
         if node is None:
-            return
+            return 
         if node.val == target:
-            self.numOfPaths += 1
-            
-        self.test(node.left, target-node.val)
-        self.test(node.right, target-node.val)
+            self.paths += 1
+        
+        self.test(node.left, target -  node.val)
+        self.test(node.right, target - node.val)
+    
+   
