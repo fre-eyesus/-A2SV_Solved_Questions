@@ -34,6 +34,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -90,6 +91,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
