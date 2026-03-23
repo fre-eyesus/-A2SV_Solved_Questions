@@ -31,6 +31,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -90,6 +91,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -200,6 +202,7 @@
 | [0055-jump-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Sliding Window
