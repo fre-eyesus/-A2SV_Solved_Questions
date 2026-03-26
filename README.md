@@ -194,6 +194,7 @@
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -248,6 +249,7 @@
 | ------- | ------- |
 | [0077-combinations](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -384,4 +386,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 <!---LeetCode Topics End-->
