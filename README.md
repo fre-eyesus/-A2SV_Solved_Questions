@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -251,6 +252,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
