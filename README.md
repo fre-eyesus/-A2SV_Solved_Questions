@@ -208,6 +208,7 @@
 | [2381-shifting-letters-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
