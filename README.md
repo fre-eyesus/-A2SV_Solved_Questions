@@ -124,6 +124,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -138,6 +139,7 @@
 | [1029-two-city-scheduling](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
