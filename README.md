@@ -151,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
 | [0342-power-of-four](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
@@ -316,6 +317,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
