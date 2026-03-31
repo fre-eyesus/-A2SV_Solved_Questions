@@ -318,6 +318,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
+| [0278-first-bad-version](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -411,4 +412,8 @@
 | ------- | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
