@@ -41,6 +41,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -91,6 +92,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -165,6 +167,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1922-count-good-numbers](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
