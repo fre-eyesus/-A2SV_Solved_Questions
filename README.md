@@ -378,6 +378,7 @@
 | [0572-subtree-of-another-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -390,6 +391,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -405,6 +407,7 @@
 | [0572-subtree-of-another-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
