@@ -7,7 +7,7 @@ class Solution:
             
             for j in range(idx,len(s)):
                 next = int(s[idx:j+1])
-                if next + 1 == prev and dfs(j+1, next):
+                if next + 1 == prev and dfs(j + 1, next):
                     return True
             return False
 
