@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
@@ -139,6 +140,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
@@ -333,6 +335,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
