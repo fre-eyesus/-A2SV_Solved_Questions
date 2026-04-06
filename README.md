@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -131,6 +132,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -292,6 +294,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
