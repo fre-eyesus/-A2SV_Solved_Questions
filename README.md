@@ -88,6 +88,7 @@
 | [0933-number-of-recent-calls](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
+| [2069-walking-robot-simulation-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -299,6 +300,7 @@
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2751-robot-collisions/) | Hard |
