@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -357,6 +358,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
