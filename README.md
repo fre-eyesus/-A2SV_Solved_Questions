@@ -148,12 +148,14 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1029-two-city-scheduling](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
@@ -191,6 +193,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -217,6 +220,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -466,6 +470,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
