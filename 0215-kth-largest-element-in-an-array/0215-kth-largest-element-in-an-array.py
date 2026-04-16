@@ -7,9 +7,6 @@ class Solution:
         k = len(nums) - k
 
         def quickSelect(l, r):
-            pivot_idx = random.randint(l, r)
-            nums[pivot_idx], nums[r] = nums[r], nums[pivot_idx]
-
             pivot, p = nums[r], l
 
             for i in range(l, r):
