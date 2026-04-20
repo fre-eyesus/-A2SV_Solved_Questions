@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0486-predict-the-winner](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -164,6 +165,7 @@
 | [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
@@ -361,6 +363,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
@@ -389,6 +392,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -413,6 +417,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
@@ -507,6 +512,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
@@ -529,6 +535,7 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 <!---LeetCode Topics End-->
