@@ -47,6 +47,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -165,6 +166,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -361,6 +363,7 @@
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -389,6 +392,7 @@
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -410,6 +414,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1622-fancy-sequence/) | Hard |
+| [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -503,6 +508,7 @@
 | ------- | ------- |
 | [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -523,5 +529,6 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 <!---LeetCode Topics End-->
