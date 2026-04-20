@@ -1,8 +1,10 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-            # ans = -1
+            nums.sort()
 
-            count = Counter(nums).most_common()
-            return count[0][0]
+            for i in range(1,len(nums)):
+                if nums[i] == nums[i - 1]:
+                    return nums[i]
+          
             
           
