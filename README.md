@@ -18,6 +18,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
@@ -239,6 +240,7 @@
 | [0141-linked-list-cycle](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -368,6 +370,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -382,6 +385,7 @@
 | [0074-search-a-2d-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0456-132-pattern](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
