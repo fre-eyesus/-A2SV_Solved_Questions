@@ -14,6 +14,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0164-maximum-gap](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -176,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
+| [0164-maximum-gap](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
@@ -521,10 +523,12 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
