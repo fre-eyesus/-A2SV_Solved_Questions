@@ -416,11 +416,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -475,6 +477,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -502,6 +505,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
