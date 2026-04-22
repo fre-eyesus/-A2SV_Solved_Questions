@@ -259,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0071-simplify-path/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -330,6 +331,7 @@
 | ------- | ------- |
 | [0051-n-queens](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -497,6 +499,7 @@
 | [0100-same-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Search Tree
