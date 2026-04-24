@@ -8,13 +8,15 @@ class Solution:
             return 0 <= row < rows and 0 <= col < cols
 
         def dfs(row, col):
+            if grid[row][col] == '0':
+                return
             grid[row][col] = '0'
 
             for row_change, col_change in directions:
                 new_row = row + row_change
                 new_col = col + col_change
 
-                if inbound(new_row, new_col) and grid[new_row][new_col] == '1':
+                if inbound(new_row, new_col):
                     dfs(new_row, new_col)
 
 
