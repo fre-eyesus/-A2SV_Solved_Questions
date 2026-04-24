@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -126,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -417,6 +419,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -472,6 +475,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0437-path-sum-iii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -504,6 +508,7 @@
 | [0100-same-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
