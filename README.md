@@ -466,6 +466,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -482,6 +483,7 @@
 | [0437-path-sum-iii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -503,6 +505,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -515,6 +518,7 @@
 | [0200-number-of-islands](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
