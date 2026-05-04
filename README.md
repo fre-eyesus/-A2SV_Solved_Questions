@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
@@ -129,6 +130,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -210,6 +212,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
 | [0342-power-of-four](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
