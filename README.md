@@ -61,6 +61,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
@@ -120,6 +121,7 @@
 | [1029-two-city-scheduling](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
@@ -385,6 +387,7 @@
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
