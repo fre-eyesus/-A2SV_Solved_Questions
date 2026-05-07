@@ -80,6 +80,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3660-jump-game-ix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Prefix Sum
@@ -309,6 +310,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3660-jump-game-ix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
