@@ -56,6 +56,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1598-crawler-log-folder](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1649-create-sorted-array-through-instructions](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -122,6 +123,7 @@
 | [0860-lemonade-change](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -202,6 +204,7 @@
 | [0912-sort-an-array](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1029-two-city-scheduling](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/fre-eyesus/-A2SV_Solved_Questions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
